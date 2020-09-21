@@ -6,11 +6,11 @@
 
 * [Backend Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap#back-end-roadmap) - дорожная карта backend-разработчика
 
-* [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) - дорожная карта java-разработчика
+* [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap#roadmap) - дорожная карта java-разработчика
 
 * [system-design-primer на русском](https://github.com/voitau/system-design-primer/blob/master/README-ru.md) - пособие по проектированию систем
 
-* [java-design-patterns](https://java-design-patterns.com/) - паттерны проектирования и лучшие практики на Java
+* [java-design-patterns](https://java-design-patterns.com/patterns/) - паттерны проектирования и лучшие практики на Java
 
 ## Книги & Статьи
 
