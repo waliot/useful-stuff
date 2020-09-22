@@ -8,10 +8,6 @@
 
 * [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap#roadmap) - дорожная карта java-разработчика
 
-* [system-design-primer на русском](https://github.com/voitau/system-design-primer/blob/master/README-ru.md) - пособие по проектированию систем
-
-* [java-design-patterns](https://java-design-patterns.com/patterns/) - паттерны проектирования и лучшие практики на Java
-
 ## Книги & Статьи
 
 ### Java
@@ -32,7 +28,11 @@
 
 ### Другое
 
-* [Микросервисы, Мартин Фаулер](https://habr.com/ru/post/249183/) - первоисточник понятия "Микросервисы"
+* [Java Design Patterns](https://java-design-patterns.com/patterns/) - паттерны проектирования и лучшие практики на Java
+
+* [System Design Primers](https://github.com/voitau/system-design-primer/blob/master/README-ru.md) - пособие по проектированию систем
+
+* ["Микросервисы", Мартин Фаулер](https://habr.com/ru/post/249183/) - первоисточник понятия "Микросервисы"
 
 * [Приложение двенадцати факторов](https://12factor.net/ru/) - набор принципов для современных микросервисных и облачных систем
 
@@ -41,6 +41,10 @@
 ---
 
 ## Видео & Аудио
+
+* [Программирование на Java](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRZSRZxANkvpYC82BXUzCTY) - бесплатный видеокурс от Тагира Валеева
+
+* [JUG.ru](https://www.youtube.com/c/JUGru/playlists) - видеозаписи всех выступлений на основных конференциях по Java от JUG.ru
 
 * [awesome-russian-it/java](https://github.com/unchase/awesome-russian-it#meetups-development-java) - список русскоязычных сообществ и подкастов на тему Java
 
