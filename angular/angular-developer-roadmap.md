@@ -38,7 +38,11 @@
 
 ## Видео & Аудио
 
-TODO
+* [Angular YouTube](https://www.youtube.com/@Angular)
+
+* [Angular for Beginners Course | freeCodeCamp](https://youtu.be/3qBXWUpoPHo?si=Uz4nOB59OhJuXBh5)
+
+* [Top 10 Angular Tutorials, Blogs and Podcasts](https://blog.angular-university.io/top-10-angular-2-tutorials-blogs-and-podcasts/)
 
 ---
 
