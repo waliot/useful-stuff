@@ -60,4 +60,6 @@
 
 ## Обучение
 
-* [Java Develop Roadmap](java/java-developer-roadmap.md)
+* [Java Developer Roadmap](java/java-developer-roadmap.md)
+
+* [Angular Developer Roadmap](angular/angular-developer-roadmap.md)
